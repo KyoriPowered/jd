@@ -1,0 +1,5 @@
+net.kyori.text
+net.kyori.text.event
+net.kyori.text.format
+net.kyori.text.renderer
+net.kyori.text.serializer
